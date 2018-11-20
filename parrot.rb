@@ -2,5 +2,7 @@
 # returns the phrase
 
 def parrot(speak ="Squawk!")
+  if speak = 
   puts speak
+  return speak
 end
